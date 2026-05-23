@@ -1,0 +1,1 @@
+Images, small datasets, and demo assets used in notebooks and docs.
