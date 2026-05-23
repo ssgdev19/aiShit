@@ -24,13 +24,11 @@ What's in here (high level):
 
 How to use this repo:
 
-1. Read the first lecture setup in `System Setup/notes/` to configure your machine.
+1. Read the first lecture setup in `courses\KN - Modern Route-Full Stack GenerativeAI And Agentic AI Bootcamp\system-setup\System Setup` to configure your machine.
 2. Open `notebooks/` for quick demos — run `01-setup.ipynb` (create it if missing).
 3. Put raw data in `data/raw/`, then add cleaned versions to `data/processed/`.
 4. Keep models off Git; add pointers in `models/README.md` if needed.
 
 Contributing: toss in tiny, self-contained experiments. Name folders clearly (timestamp or short label) and add a short note in the relevant folder README.
-
-Want me to scaffold a starter notebook or sample training script? Say the word and I’ll add a runnable starter.
 
 — enjoy the chaos ✨
