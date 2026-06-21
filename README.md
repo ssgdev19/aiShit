@@ -9,8 +9,8 @@ Quick vibes:
 
 What's in here (high level):
 
-- `System Setup/` : course notes and setup guides for the first lecture.
-- `courses/` : per-course folders (e.g., `courses/system-setup/`) containing lecture notes and resources.
+- `System Setup/` : course notes and setup guides.
+- `courses/` : per-course folders containing lecture notes and resources.
 - `src/` : code, small modules, and utilities for experiments.
 - `notebooks/` : numbered Jupyter notebooks for exploration and demos.
 - `data/` : `raw/` and `processed/` subfolders for datasets.
